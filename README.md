@@ -2,7 +2,7 @@
 
 :art: I designed this theme myself with Miami inspired colors.
 
-➡️ Type in the word "Treux" in your VS Code extensions tab or install it 
+:arrow_right: Type in the word "Treux" in your VS Code extensions tab or install it 
 here, https://marketplace.visualstudio.com/items?itemName=treuxdesign.treux-vibes
 
 :gem: Font Suggestions: JetBrains Mono or Fira Code
