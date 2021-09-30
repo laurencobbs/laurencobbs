@@ -1,4 +1,4 @@
-:fire: CHECK OUT MY OFFICIAL VISUAL STUDIO CODE THEME, TREUX! (pronounced True):fire:
+:fire: CHECK OUT MY OFFICIAL VISUAL STUDIO CODE THEME, TREUX! (pronounced True) :fire:
 
 I designed this theme myself with Miami inspired colors.
 
